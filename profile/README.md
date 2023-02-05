@@ -34,7 +34,7 @@ L’applicazione mobile potrà essere utilizzata da un operatore sul campo, dand
 L'applicazione in oggetto ha lo scopo di permettere un'analisi dei dati rilevati nel lungo periodo, consentendo anche la visualizzazione in tempo reale dello stato della serra e delle eventuali operazioni di correzione compiute manualmente/automaticamente.
 
 <div align="center">
-<img src="img/smartgh.png" alt="Smart Greenhouse Logo"  width="220px" height="210px">
+<img src="https://github.com/SmartGreenhouse-22-23/Report/blob/doc/img/smartgh.png" alt="Smart Greenhouse Logo"  width="220px" height="210px">
 <p align="center">Smart Greenhouse Logo</p>
 </div>
 

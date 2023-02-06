@@ -20,17 +20,20 @@ Il sistema sarà in grado di compiere delle correzioni in modo automatico e/o ma
 - aumentare l’umidità del terreno tramite l’attivazione del sistema di irrigazione.
 
 ## Componenti del sistema
-<p>Modulo Arduino</p>
+**Modulo Arduino**
+
 Il sistema è costituito da un modulo Arduino che comprende i diversi sensori presenti nella serra per monitorare lo stato di salute delle piante e i moduli aggiuntivi per la gestione delle operazioni al suo interno (es. modulo d’irrigazione).
 
-<p>Applicazione mobile</p>
+**Applicazione mobile**
+
 L’applicazione mobile potrà essere utilizzata da un operatore sul campo, dandogli la possibilità di:
 
 - sapere i parametri attuali rilevati;
 - eventuali situazioni di allarme;
 - intervenire manualmente per poter modificare i valori monitorati e applicare opportune correzioni.
 
-<p>Applicazione desktop</p>
+**Applicazione desktop**
+
 L'applicazione in oggetto ha lo scopo di permettere un'analisi dei dati rilevati nel lungo periodo, consentendo anche la visualizzazione in tempo reale dello stato della serra e delle eventuali operazioni di correzione compiute manualmente/automaticamente.
 
 <div align="center">

@@ -44,7 +44,7 @@ L'applicazione in oggetto ha lo scopo di permettere un'analisi dei dati rilevati
 - Yan Elena  - <elena.yan@studio.unibo.it>
 
 ### Repository
-- [Report](https://github.com/SmartGreenhouse-22-23/Report)
+- [Report](https://github.com/SmartGreenhouse-22-23/Report) - [GitHub Pages](https://smartgreenhouse-22-23.github.io/Report/)
 - [Sistema di automazione](https://github.com/SmartGreenhouse-22-23/ArduinoSensor)
 - [Server](https://github.com/SmartGreenhouse-22-23/Server)
 - [Client Desktop](https://github.com/SmartGreenhouse-22-23/ClientDesktop)

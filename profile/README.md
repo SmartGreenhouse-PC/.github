@@ -37,18 +37,17 @@ L’applicazione mobile potrà essere utilizzata da un operatore sul campo, dand
 L'applicazione in oggetto ha lo scopo di permettere un'analisi dei dati rilevati nel lungo periodo, consentendo anche la visualizzazione in tempo reale dello stato della serra e delle eventuali operazioni di correzione compiute manualmente/automaticamente.
 
 <div align="center">
-<img src="https://github.com/SmartGreenhouse-22-23/Report/blob/doc/img/smartgh.png" alt="Smart Greenhouse Logo"  width="220px" height="210px">
+<img src="https://github.com/SmartGreenhouse-PC/Report/blob/doc/img/smartgh.png" alt="Smart Greenhouse Logo"  width="220px" height="210px">
 <p align="center">Smart Greenhouse Logo</p>
 </div>
 
 ### Componenti del gruppo
 - Mengozzi Maria  - <maria.mengozzi3@studio.unibo.it>
 - Vitali Anna  - <anna.vitali4@studio.unibo.it>
-- Yan Elena  - <elena.yan@studio.unibo.it>
 
 ### Repository
-- [Report](https://github.com/SmartGreenhouse-22-23/Report) - [GitHub Pages](https://smartgreenhouse-22-23.github.io/Report/)
-- [Sistema di automazione](https://github.com/SmartGreenhouse-22-23/ArduinoSensor)
-- [Server](https://github.com/SmartGreenhouse-22-23/Server)
-- [Client Desktop](https://github.com/SmartGreenhouse-22-23/ClientDesktop)
-- [Client Mobile](https://github.com/SmartGreenhouse-22-23/ClientMobile)
+- [Report](https://github.com/SmartGreenhouse-PC/Report) - [GitHub Pages](https://SmartGreenhouse-PC.github.io/Report/)
+- [Sistema di automazione](https://github.com/SmartGreenhouse-PC/ArduinoSensor)
+- [Server](https://github.com/SmartGreenhouse-PC/Server)
+- [Client Desktop](https://SmartGreenhouse-PC/ClientDesktop)
+- [Client Mobile](https://SmartGreenhouse-PC/ClientMobile)

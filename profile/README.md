@@ -49,5 +49,5 @@ L'applicazione in oggetto ha lo scopo di permettere un'analisi dei dati rilevati
 - [Report](https://github.com/SmartGreenhouse-PC/Report) - [GitHub Pages](https://SmartGreenhouse-PC.github.io/Report/)
 - [Sistema di automazione](https://github.com/SmartGreenhouse-PC/ArduinoSensor)
 - [Server](https://github.com/SmartGreenhouse-PC/Server)
-- [Client Desktop](https://SmartGreenhouse-PC/ClientDesktop)
-- [Client Mobile](https://SmartGreenhouse-PC/ClientMobile)
+- [Client Desktop](https://github.com/SmartGreenhouse-PC/ClientDesktop.git)
+- [Client Mobile](https://github.com/SmartGreenhouse-PC/ClientMobile)

@@ -1,5 +1,10 @@
-# Smart Greenhouse
+---
+title: Smart Greenhouse
+has_children: false
+nav_order: 1
+---
 
+# Smart Greenhouse
 Il progetto si propone di realizzare un'applicazione che consenta la gestione e il monitoraggio di un complesso di serre intelligenti.
 
 In particolare, verrà simulata una situazione in cui un committente richieda l’automatizzazione dei processi che regolano le diverse serre e di monitorarne la loro gestione.
@@ -16,7 +21,8 @@ Conosciuti i valori ottimali, delle grandezze da rilevare per la pianta di rifer
 Il sistema sarà in grado di compiere delle correzioni in modo automatico e/o manuale, al fine di riportare i valori rilevati nei range ottimali, in particolare le azioni che possono essere compiute sono le seguenti:
 
 - regolare l’intensità delle lampade, per gestire la luminosità dell’ambiente;
-- gestire l’umidità dell’aria e la temperatura tramite il sistema di ventilazione;
+- gestire l’umidità dell’aria tramite il sistema di ventilazione;
+- gestire la temperatura sia tramite lampade temriche che attraverso il sistema di ventilazione;
 - aumentare l’umidità del terreno tramite l’attivazione del sistema di irrigazione.
 
 ## Componenti del sistema
@@ -28,7 +34,8 @@ Il sistema è costituito da un modulo Arduino che comprende i diversi sensori pr
 
 L’applicazione mobile potrà essere utilizzata da un operatore sul campo, dandogli la possibilità di:
 
-- sapere i parametri attuali rilevati;
+- scegliere la serra da monitorare;
+- sapere i parametri attuali rilevati all'interno della serra;
 - eventuali situazioni di allarme;
 - intervenire manualmente per poter modificare i valori monitorati e applicare opportune correzioni.
 

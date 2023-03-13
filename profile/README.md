@@ -1,9 +1,3 @@
----
-title: Smart Greenhouse
-has_children: false
-nav_order: 1
----
-
 # Smart Greenhouse
 Il progetto si propone di realizzare un'applicazione che consenta la gestione e il monitoraggio di un complesso di serre intelligenti.
 
